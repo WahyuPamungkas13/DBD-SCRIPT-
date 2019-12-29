@@ -1,0 +1,31 @@
+$nomention
+
+$color[00ffff]
+
+$userInfo[
+
+__**User info**__
+
+👤 Username: 
+
+{username}
+
+☑️ Verified: 
+
+{verified}
+
+🔎 ID: 
+
+{ID}
+
+📄 Tag: 
+
+{discriminator}
+
+🗒️ Tanggal Pembuatan:
+
+$creationDate[$mentioned[1]]
+
+]
+
+$thumbnail[$authorAvatar]
